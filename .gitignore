@@ -2,7 +2,7 @@
 venv/
 .c9
 env.py
-enc.pyc
+env.pyc
 *.png
 static/
 media/
