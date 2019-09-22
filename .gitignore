@@ -1,3 +1,8 @@
 *.sqlite3
 venv/
 .c9
+env.py
+enc.pyc
+*.png
+static/
+media/
